@@ -1,2 +1,2 @@
-# GamesScripts
+# GameScripts
 Scripts of my games
